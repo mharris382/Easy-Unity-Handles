@@ -1,0 +1,19 @@
+{
+    "name": "EasyUnityHandles.Tests.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ccc932068d900bc4fa3b40a0ebeb241a",
+        "GUID:536bbfb370990b34991c445ee21ad4a3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
